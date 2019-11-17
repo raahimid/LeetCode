@@ -1,4 +1,5 @@
 class Solution {
+//LEETCODE EASY
     public int numJewelsInStones(String J, String S)
     {
 
